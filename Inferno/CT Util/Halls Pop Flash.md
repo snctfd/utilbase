@@ -9,7 +9,7 @@ Pop flash used to allow the balcony player to repeek the hallway in Apps. Many a
 Wedge yourself in the corner of the barrels that form the jump-up to graveyard:
 ![[20240418020351_1.jpg]]
 
-Look towards apartments, find the antenna sticking out from on top of the building and aim at the biggest piece of metal:
+Look towards apartments, find the antenna sticking out from on top of the building and aim at the biggest piece of metal and standing left click throw:
 ![[20240418020358_1.jpg]]
 
 Result:

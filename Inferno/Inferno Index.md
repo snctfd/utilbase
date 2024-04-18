@@ -17,6 +17,7 @@
 ### B Site and Banana
 [[CT Smoke]]
 [[Coffins Smoke]]
+[[New Box Molotov]]
 ### A Site
 [[A Site Smoke from 2nd Mid]]
 [[Moto Smoke from 2nd Mid]]
