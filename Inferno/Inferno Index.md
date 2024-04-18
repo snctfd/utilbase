@@ -19,6 +19,7 @@
 [[Coffins Smoke]]
 [[New Box Molotov]]
 [[Oranges Molotov]]
+[[Dark Molotov]]
 ### A Site
 [[A Site Smoke from 2nd Mid]]
 [[Moto Smoke from 2nd Mid]]
