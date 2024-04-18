@@ -18,4 +18,6 @@
 [[CT Smoke]]
 [[Coffins Smoke]]
 ### A Site
+[[A Site Smoke from 2nd Mid]]
+[[Moto Smoke from 2nd Mid]]
 ### Mid
