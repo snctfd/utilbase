@@ -6,7 +6,7 @@ This smoke from 2nd mid to A site is a useful part of an A execute, blocking off
 **Importance:** 3/5
 ## Lineup
 Stand against the wall by this metal postcard stand:
-![[Pasted image 20240418152948.png]]
+![[Pasted image 20240418152948.jpg]]
 
 Then, crouch and put your crosshair just underneath the bottom edge of the lantern and slightly out from the wall as shown, and left click throw the smoke.
-![[Pasted image 20240418155427.png]]
+![[Pasted image 20240418155427.jpg]]

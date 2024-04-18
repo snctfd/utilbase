@@ -6,22 +6,22 @@ These simple flashbangs are perfect for early aggression into banana. There are 
 **Importance:** 4/5
 ### Lineup
 Align yourself with this line in the bricks:
-![[Pasted image 20240416161151.png]]
+![[Pasted image 20240416161151.jpg]]
 
 Then, turn around and put your crosshair at the top of the "1" on the sign that says "10":
-![[Pasted image 20240416162118.png]]
+![[Pasted image 20240416162118.jpg]]
 
 Finally, jump-middle-throw the flashbang. Result:
-![[Pasted image 20240416162730.png]]
+![[Pasted image 20240416162730.jpg]]
 ## Variation 2
 **Difficulty:** 1/5
 **Importance:** 5/5
 ### Lineup
 First, align yourself with the edge of this wall:
-![[Pasted image 20240416162921.png]]
+![[Pasted image 20240416162921.jpg]]
 
 Then, aim just to the right of the edge of this wall and left-click throw:
-![[Pasted image 20240416163102.png]]
+![[Pasted image 20240416163102.jpg]]
 
 Result:
-![[Pasted image 20240416163212.png]]
+![[Pasted image 20240416163212.jpg]]

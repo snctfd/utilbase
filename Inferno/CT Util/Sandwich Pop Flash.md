@@ -8,7 +8,7 @@ Note however that this flash does not catch enemies that are partially behind th
 **Importance:** 4/5
 ## Lineup
 Simply put your crosshair on the dot in the wood as shown, and left click throw
-![[Pasted image 20240416163902.png]]
+![[Pasted image 20240416163902.jpg]]
 
 Result:
-![[Pasted image 20240416164143.png]]
+![[Pasted image 20240416164143.jpg]]

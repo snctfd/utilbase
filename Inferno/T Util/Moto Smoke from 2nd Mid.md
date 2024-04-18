@@ -6,7 +6,7 @@ This smoke from 2nd mid to Moto is a useful part of an A execute. This smoke is 
 **Importance:** 3/5
 ## Lineup
 Stand against the wall by this metal postcard stand:
-![[Pasted image 20240418152948.png]]
+![[Pasted image 20240418152948.jpg]]
 
 Then, put your crosshair on the small wooden beam directly up from the "V" on the wall, and jump left click throw the smoke:
-![[Pasted image 20240418153141.png]]
+![[Pasted image 20240418153141.jpg]]

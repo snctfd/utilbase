@@ -6,18 +6,18 @@ Smoking CT is the number one most important part of any Inferno B execute. This 
 **Importance:** 5/5
 ### Lineup
 Stand in the corner by barrels:
-![[Pasted image 20240416174509.png]]
+![[Pasted image 20240416174509.jpg]]
 
 Look at the top corner of the church roof, and left click throw:
-![[Pasted image 20240416174356.png]]
+![[Pasted image 20240416174356.jpg]]
 ## Variation 2
 **Difficulty:** 2/5
 **Importance:** 4/5
 ### Lineup
 Crouch and align yourself with the small dot on the left side of the hatch labeled "GAS":
-![[Pasted image 20240416173622.png]]
+![[Pasted image 20240416173622.jpg]]
 
 Then, **stand up** and look slightly up from the bottom-left edge of the church:
-![[Pasted image 20240416173504.png]]
+![[Pasted image 20240416173504.jpg]]
 
 Throw the smoke with a simple left click.
