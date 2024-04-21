@@ -2,7 +2,7 @@
 ## Description
 In conjunction with the [[Long Dumpster Smoke]] allows for a full execute on the A bombsite from Long.
 
-**Difficulty:** 4/5
+**Difficulty:** 3/5
 **Importance:** 4/5
 ## Lineup
 Wedge yourself in the corner next to the fence gate at long:
