@@ -1,6 +1,6 @@
 # Long Dumpster Smoke
 ## Description
-In conjunction with the [[Long Bank Smoke]] allows for a full execute on the A bombsite from Long.
+In conjunction with the [[Long Bank Smoke]] allows for a full execute on the A bombsite from Long. Can be followed up with the [[Long Truck Molotov]].
 
 **Difficulty:** 3/5
 **Importance:** 4/5
