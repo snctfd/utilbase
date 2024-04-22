@@ -9,5 +9,6 @@ Placeholder
 
 [[Sewer ABC Smoke]]
 [[Sewer Heaven Smoke]]
+[[Sewer Barrels Molotov]]
 
 [[Connector Door HE]]

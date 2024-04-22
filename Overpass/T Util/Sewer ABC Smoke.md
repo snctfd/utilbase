@@ -1,8 +1,8 @@
 # Sewer ABC Smoke
 ## Description
-In CS2 a single smoke grenade is enough to block off both the left and right sides of ABC due to volumetric smoke spread, this smoke has become critically important for a good execute because of it.
+In CS2 a single smoke grenade is enough to block off both the left and right sides of ABC due to volumetric smoke spread, this smoke has become critically important for a good execute because of it. Usually paired with a [[Sewer Heaven Smoke|Heaven Smoke]] to block off the whole site.
 
-**Difficulty:** 2/5
+**Difficulty:** 3/5
 **Importance:** 5/5
 ## Lineup
 Get in the back corner of the sewer as shown:

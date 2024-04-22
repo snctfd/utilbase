@@ -1,6 +1,6 @@
 # Sewer Heaven Smoke
 ## Description
-Most important lineup to know on the T-side of Overpass. Without this smoke an AWP or even a regular rifle can completely deny your B push, so this smoke is mandatory. Combined with an [[Sewer ABC Smoke|ABC Smoke]] it completely isolates the site.
+Most important lineup to know on the T-side of Overpass. Without this smoke an AWP or even a regular rifle can completely deny your B push, so this smoke is mandatory. Combined with an [[Sewer ABC Smoke|ABC Smoke]] it completely isolates the site. From the same position you can throw the [[Sewer Barrels Molotov]].
 
 **Difficulty:** 2/5
 **Importance:** 5/5
